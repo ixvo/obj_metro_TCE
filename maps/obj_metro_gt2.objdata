@@ -1,0 +1,10 @@
+// Set scenario information
+wm_mapdescription allied ""
+wm_mapdescription axis ""
+wm_mapdescription neutral ""
+
+// Axis Objective Descriptions
+wm_objective_axis_desc	1	"Capture the Specops flag A"
+
+// Allied Objective Descriptions
+wm_objective_allied_desc	1	"Capture the Terrorists flag B"
