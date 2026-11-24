@@ -8,7 +8,9 @@ This port is an Interstellar Oasis initiative: [https://github.com/InterstellarO
 Levelshot
 ---------
 
-![Levelshot](meta/metro/metro.jpg)
+![Levelshot](meta/metro/metrotce1.jpg)
+![Levelshot](meta/metro/metrotce2.jpg)
+![Levelshot](meta/metro/metrotce3.jpg)
 
 Credits
 -------
