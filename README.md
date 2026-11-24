@@ -1,9 +1,11 @@
 Métro
 -----
 
-This is a map ported from the [Tremulous](https://tremulous.net/) game to the [Unvanquished](https://unvanquished.net/) game. It features Paris undergrounds, including subway, sewers, crypt, catacombs and stone quarry.
+This is a  [True Combat: Elite](http://www.truecombatelite.com/) port of a map
+originally ported from the [Tremulous](https://tremulous.net/) game to the [Unvanquished](https://unvanquished.net/) game. 
+It features Paris undergrounds, including subway, sewers, crypt, catacombs and stone quarry.
 
-This port is an Interstellar Oasis initiative: [https://github.com/InterstellarOasis/InterstellarOasis](https://github.com/InterstellarOasis/InterstellarOasis).
+The parent port is an Interstellar Oasis initiative: [https://github.com/InterstellarOasis/InterstellarOasis](https://github.com/InterstellarOasis/InterstellarOasis).
 
 Levelshot
 ---------
